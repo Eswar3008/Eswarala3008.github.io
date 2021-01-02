@@ -18,7 +18,7 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    width: 100%;
+    width: 60%;
 }
 
 
@@ -126,7 +126,7 @@ html {
 .main-nav li:hover a,
 .main-nav li.active a {
     background: #fff;
-    color: #8c363e;
+    color: #0f0e0e;
 }
 
 /* Sidebar Menu */
@@ -178,7 +178,7 @@ html {
 
 .menu .social-network ul li a:hover {
     background-color: #fff;
-    color: #a43f49;
+    color: #097aeb;
 }
 
 .menu .copyright-text {
@@ -255,7 +255,7 @@ html {
     position: fixed;
     top: 0;
     left: 0;
-    color: #a43f49;
+    color: #097aeb;
     background-color: #fff;
     width: 60px;
     height: 60px;
@@ -271,7 +271,7 @@ html {
 #menu-close {
     cursor: pointer;
     text-align: right;
-    color: #a43f49;
+    color: #097aeb;
     background-color: #fff;
     width: 100%;
     height: 60px;
@@ -308,7 +308,7 @@ html {
 .section-heading .line-dec {
     width: 60px;
     height: 3px;
-    background-color: #a43f49;
+    background-color: #097aeb;
     margin: 10px auto;
 }
 
@@ -326,7 +326,7 @@ html {
     display: inline-block;
     padding: 12px 20px;
     background-color: #fff;
-    color: #a43f49;
+    color: #097aeb;
     font-size: 13px;
     font-weight: 800;
     letter-spacing: 0.5px;
@@ -335,7 +335,7 @@ html {
 }
 
 .white-button a:hover {
-    background-color: #a43f49;
+    background-color: #097aeb;
     color: #fff;
 }
 
@@ -343,7 +343,7 @@ button {
     display: inline-block;
     padding: 10px 20px;
     background-color: #fff;
-    color: #a43f49;
+    color: #097aeb;
     font-size: 12px;
     font-weight: 800;
     letter-spacing: 0.5px;
@@ -356,7 +356,7 @@ button {
 
 button:hover {
     outline: none;
-    background-color: #a43f49;
+    background-color: #097aeb;
     color: #fff;
 }
 
@@ -497,7 +497,7 @@ section.my-work .section-heading {
 }
 
 .isotope-toolbar input[type="radio"]:checked + span {
-    color: #a43f49;
+    color: #095aab;
     border-bottom: 2px solid #a43f49;
 }
 
