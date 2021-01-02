@@ -18,7 +18,7 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    width: 60%;
+    width: 100%;
 }
 
 
@@ -223,7 +223,7 @@ html {
     left: 10%;
   -webkit-transition: -webkit-transform 233ms cubic-bezier(0, 0, 0.21, 1);
   -webkit-overflow-scrolling: touch;
-  background-color: #a43f49;
+  background-color: #0d0c0c;
   box-sizing: border-box;
   height: 100vh;  
   max-height: 100vh !important;
@@ -580,7 +580,7 @@ figure.snip1321 span {
 figure.snip1321 i {
   position: relative!important;
   font-size: 18px;
-  background-color: #a43f49;
+  background-color: #0d0c0c;
   width: 40px;
   height: 40px;
   display: inline-block;
