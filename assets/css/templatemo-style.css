@@ -11,6 +11,13 @@ https://templatemo.com/tm-531-reflux
 body {
     font-family: 'Lato', sans-serif;
 }
+logo-image{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
 
 #page-wraper {
     background: url(../images/page-bg.jpg) no-repeat center center fixed;
